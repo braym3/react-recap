@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.content{
+  margin: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.product-table{
+  margin-top: 2%;
+  margin-bottom: 7%;
+}
+

@@ -1,0 +1,56 @@
+[
+    { 
+        "id": 1, 
+        "name": "Strawberries", 
+        "amount": 283, 
+        "productType": "Fruit"
+    },
+    { 
+        "id": 2, 
+        "name": "Pen", 
+        "amount": 59, 
+        "productType": "Stationery"
+    },
+    { 
+        "id": 3, 
+        "name": "Bananas", 
+        "amount": 347, 
+        "productType": "Fruit"
+    },
+    { 
+        "id": 4, 
+        "name": "Chair", 
+        "amount": 59, 
+        "productType": "Furniture"
+    },
+    { 
+        "id": 5, 
+        "name": "Socks", 
+        "amount": 123, 
+        "productType": "Clothing"
+    },
+    { 
+        "id": 6, 
+        "name": "Bed", 
+        "amount": 59, 
+        "productType": "Furniture"
+    },
+    { 
+        "id": 7, 
+        "name": "Pencil", 
+        "amount": 239, 
+        "productType": "Stationery"
+    },
+    { 
+        "id": 8, 
+        "name": "Broccoli", 
+        "amount": 281, 
+        "productType": "Vegetable"
+    },
+    { 
+        "id": 9, 
+        "name": "Apple", 
+        "amount": 372, 
+        "productType": "Fruit"
+    }
+]

@@ -1,0 +1,12 @@
+const AddToBasket = () => {
+    return(
+        <>
+            <h2>Add to basket</h2>
+            <form>
+                <input type="text" placeholder="Product Number:"/>
+                <input type="text" placeholder="Amount:"/>
+                <button type="button"> Add Player </button>
+            </form>
+        </>
+    );
+};
